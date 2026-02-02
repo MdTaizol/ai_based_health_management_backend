@@ -17,7 +17,7 @@ Frontend and database components are maintained in separate repositories.
 | Sadi      | 222010079        | Team Member | To be assigned |
 | Hamim     | 222010241        | Team Member | To be assigned |
 | Sayem     | 222010371        | Team Member | To be assigned |
-| Miazy     | To be added      | Team Member | To be assigned |
+| Miazy     | 222010271      | Team Member | To be assigned |
 | Taznima   | 222010217        | Team Member | To be assigned |
 | Kaito     | 222010058        | Team Member | To be assigned |
 | Arpita    | 222010005        | Team Member | To be assigned |
